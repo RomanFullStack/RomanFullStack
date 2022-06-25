@@ -1,0 +1,4 @@
+- 👋 Hello! I’m @RomanFullStack.
+- 👀 I’m interested in front end development.
+- 🌱 I’m currently learning HTML, CSS, & Javascript.
+- 📫 How to reach me - romancharris18@gmail.com.
